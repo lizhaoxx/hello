@@ -11,3 +11,8 @@ void master_1(void)
 {
 
 }
+
+void RB_1(void)
+{
+
+}
